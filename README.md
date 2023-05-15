@@ -1,4 +1,4 @@
-# Numerical solution of partial differential equations (PDEs)
+# Numerical solution of partial differential equations (PDEs) using PyTorch
 
 ## Files:
 
@@ -11,6 +11,7 @@
 ## Requirements
 
 - Python version >= 3.6
+- PyTorch version >= 2.0
 
 Install Modules:
 
