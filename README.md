@@ -1,4 +1,4 @@
-# Numerical solution of partial differential equations (PDEs)
+# Numerical solution of partial differential equations (PDEs) using PyTorch
 
 ## Files:
 
